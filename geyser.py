@@ -4,6 +4,8 @@ import datetime
 
 app = Flask(__name__)
 
+#Geyser Bot
+
 # List of housemates and duties
 people = ["Love", "Arpan", "Keshav", "Jyoti", "Prabh"]
 duties = ["Upper Washroom", "Lower Washroom", "Mop and Broom", "Vacuum Cleaning", "Kitchen"]
