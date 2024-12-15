@@ -4,7 +4,7 @@ import datetime
 
 app = Flask(__name__)
 
-# List of people and duties
+# List of housemates and duties
 people = ["Love", "Arpan", "Keshav", "Jyoti", "Prabh"]
 duties = ["Upper Washroom", "Lower Washroom", "Mop and Broom", "Vacuum Cleaning", "Kitchen"]
 
